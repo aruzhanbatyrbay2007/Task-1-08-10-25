@@ -1,4 +1,3 @@
-# Task-1-08-10-25
 # Task 1 (08.10.25)
 ## Internet and Web Basics
 
@@ -63,48 +62,5 @@ https://docs.google.com/presentation/d/1mLgJP5TwG7yeVsdmd-dxVSCMb5D9r7myxHeihaET
 The following topics were studied using the W3Schools website:  
 https://www.w3schools.com/html/html_intro.asp
 
----
 
-### 4.1 HTML Introduction
 
-HTML stands for **HyperText Markup Language**.  
-It is used to create the structure of web pages.
-
-#### Example:
-```html
-<!DOCTYPE html>
-<html>
-<head>
-  <title>My Website</title>
-</head>
-<body>
-  <h1>Hello World</h1>
-  <p>This is an HTML page.</p>
-</body>
-</html>
-<table border="1">
-  <tr>
-    <th>Name</th>
-    <th>Course</th>
-  </tr>
-  <tr>
-    <td>Aruzhan</td>
-    <td>Internet and Web Basics</td>
-  </tr>
-</table>
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-</ul>
-<ol>
-  <li>Learn HTML</li>
-  <li>Learn CSS</li>
-  <li>Build a Website</li>
-</ol>
-
----
-
-# 🟢 3-ҚАДАМ. COMMIT
-
-Commit message:
